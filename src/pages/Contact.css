@@ -1,0 +1,41 @@
+* {
+  font-family: sans-serif;
+}
+
+.contact-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px;
+  border-radius: 8px;
+  background-color: #e7e7e7;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: black;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #f9f9f9;
+  color: #333;
+
+  border-radius: 5px;
+  cursor: pointer;
+}
